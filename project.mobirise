@@ -2658,7 +2658,7 @@
           },
           "title": "Anthony Otero-Cossio",
           "text": "~~ Check my stuff out ~~",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"Introductionpage.html\" data-toolbar=\"-mbrBtnMove\">~~ Come On In~~</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"Introductionpage.html\" data-toolbar=\"-mbrBtnMove\">~~ Come On In! ~~</a> "
         },
         {
           "_styles": {
@@ -2674,7 +2674,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#c1c1c1",
+            "bgColor": "#f4eec9",
             "showMeta": true
           },
           "title": "",
@@ -2728,7 +2728,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#c1c1c1",
+            "bgColor": "#f4eec9",
             "showMeta": true
           },
           "title": "",
@@ -2810,7 +2810,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#c1c1c1",
+            "bgColor": "#f4eec9",
             "showMeta": true
           },
           "title": "",
