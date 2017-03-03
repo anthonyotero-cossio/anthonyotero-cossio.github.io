@@ -967,14 +967,16 @@ h6,
 #ext_menu-6 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box5-0 H3 {
-  color: #ffffff;
+#msg-box8-3s .mbr-section-title,
+#msg-box8-3s p {
+  color: #fff;
 }
-#msg-box5-0 P {
-  color: #000000;
-}
-#msg-box5-0 B {
+#msg-box8-3s .lead {
   color: #ffffff;
+  text-align: left;
+}
+#msg-box8-3s .mbr-section-title {
+  text-align: left;
 }
 #features7-2 .card-subtitle {
   color: #bcbcbc;
@@ -982,13 +984,6 @@ h6,
 #features7-2 .iconbox {
   background-color: #c0a375;
   border-color: #c0a375;
-}
-#header3-1v .mbr-section-title,
-#header3-1v .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1v H3 {
-  color: #000000;
 }
 #social-buttons4-3h .mbr-section-title,
 #social-buttons4-3h .btn-social {
