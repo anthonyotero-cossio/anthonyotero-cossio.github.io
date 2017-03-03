@@ -970,6 +970,10 @@ h6,
 #header3-1v H3 {
   color: #000000;
 }
+#social-buttons4-3h .mbr-section-title,
+#social-buttons4-3h .btn-social {
+  color: #fff;
+}
 #ext_menu-31 .hide-buttons .nav-btn {
   display: none !important;
 }
