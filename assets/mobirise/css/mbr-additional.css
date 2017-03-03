@@ -1055,6 +1055,10 @@ h6,
 #ext_menu-31 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-3q .mbr-section-title,
+#header3-3q .mbr-section-subtitle {
+  text-align: center;
+}
 #msg-box8-3p .mbr-section-title,
 #msg-box8-3p p {
   color: #fff;
