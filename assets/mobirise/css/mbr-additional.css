@@ -550,6 +550,18 @@ h6,
 #msg-box5-1x B {
   color: #ffffff;
 }
+#header3-3u .mbr-section-title,
+#header3-3u .mbr-section-subtitle {
+  text-align: center;
+}
+#slider2-3t .mbr-section-title,
+#slider2-3t .mbr-section-lead {
+  color: #fff;
+}
+#header3-3v .mbr-section-title,
+#header3-3v .mbr-section-subtitle {
+  text-align: center;
+}
 #social-buttons4-3j .mbr-section-title,
 #social-buttons4-3j .btn-social {
   color: #fff;
