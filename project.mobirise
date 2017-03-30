@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 142,
+    "uniqCompNum": 152,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -2793,7 +2793,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3q",
+          "_anchor": "header3-3c",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -2813,29 +2813,27 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-3p",
+          "_anchor": "msg-box8-3y",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/Cnfdcfpa5Xg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": false
           },
-          "title": "ARTICLE HEADER",
+          "title": "A bit of my work",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -2849,61 +2847,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3b",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#f4eec9",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": "."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-3a",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "A bit of my work",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3c",
+          "_anchor": "header3-3z",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -2957,8 +2901,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/robot-2000x1250-800x500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/robot-2000x1250.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/robot-build-2-2000x2588-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/robot-build-2-2000x2588.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2986,6 +2930,39 @@
           ],
           "_name": "header3",
           "_anchor": "header3-3f",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#f4eec9",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-46",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#f4eec9"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=BCXU9GSQkHE\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">watch my story</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-47",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
