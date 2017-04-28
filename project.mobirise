@@ -2857,7 +2857,7 @@
           },
           "title": "Believer",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=CCa18alRxUY\" data-toolbar=\"-mbrBtnMove\">Click to View<br></a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=CCa18alRxUY\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click to View<br></a>"
         },
         {
           "_styles": {
@@ -2911,7 +2911,7 @@
           },
           "title": "A Thousand Million Reasons",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=uuJ4VuK81zA\" data-toolbar=\"-mbrBtnMove\">Click to View</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=uuJ4VuK81zA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click to View</a>"
         },
         {
           "_styles": {
