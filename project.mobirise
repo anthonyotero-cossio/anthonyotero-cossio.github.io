@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-27_1153",
-    "currentPage": "adobepremiere.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 171,
+    "uniqCompNum": 173,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
