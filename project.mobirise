@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-27_1153",
-    "currentPage": "index.html",
+    "currentPage": "adobepremiere.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2870,63 +2870,6 @@
           ],
           "_name": "header3",
           "_anchor": "header3-4k",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#f4eec9",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": "."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-4i",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/colin-hay-2000x1333.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
-          },
-          "title": "A Thousand Million Reasons&nbsp;",
-          "text": "Colin Hay",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=uuJ4VuK81zA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click to View</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4m",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
