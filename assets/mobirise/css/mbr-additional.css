@@ -1006,8 +1006,19 @@ h6,
 #msg-box8-4i p {
   color: #fff;
 }
+#msg-box8-4i .lead {
+  color: #ffffff;
+}
 #header3-4m .mbr-section-title,
 #header3-4m .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box8-4p .mbr-section-title,
+#msg-box8-4p p {
+  color: #fff;
+}
+#header3-4q .mbr-section-title,
+#header3-4q .mbr-section-subtitle {
   text-align: center;
 }
 #social-buttons4-3k .mbr-section-title,
